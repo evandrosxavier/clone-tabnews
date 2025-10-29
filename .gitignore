@@ -1,0 +1,22 @@
+# Diretórios e arquivos de build do Next.js
+.next/
+out/
+
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Opcional: caches e configurações de IDEs
+.vscode/
+.DS_Store
+
